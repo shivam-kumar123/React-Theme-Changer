@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Live Site: https://64975c705380a21ba1cb96d2--jazzy-beignet-31943a.netlify.app/
+### Live Site: https://64975c705380a21ba1cb96d2--jazzy-beignet-31943a.netlify.app/
 
 ## Available Scripts
 
